@@ -2,7 +2,8 @@ package one;
 
 public class First {
 	public static void main(String args[]) {
-		System.out.print("Welcome to Preparation..");
-		System.out.print("Added new line");
+		System.out.println("Welcome to Preparation..");
+		System.out.println("Added new line");
+		System.out.println("Created branch");
 	}
 }
